@@ -1,0 +1,9 @@
+fredapi
+pytrends
+pandas
+numpy
+scikit-learn
+lightgbm
+statsmodels
+matplotlib
+jupyter
